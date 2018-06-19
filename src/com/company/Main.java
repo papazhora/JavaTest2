@@ -11,6 +11,6 @@ public class Main {
             //filos.getStr();
         System.out.print("Name: " + filos.getStr() + " is " + filos.getA());
 
-            filos.getStr();
+            //filos.getStr();
     }
 }
